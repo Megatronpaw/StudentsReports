@@ -1445,11 +1445,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Infrastructure\\StudentReports.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.Infrastructure\\StudentReports.Infrastructure.csproj",
       "projectName": "StudentReports.Infrastructure",
-      "projectPath": "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Infrastructure\\StudentReports.Infrastructure.csproj",
+      "projectPath": "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.Infrastructure\\StudentReports.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\илья\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Infrastructure\\obj\\",
+      "outputPath": "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1471,11 +1471,11 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Application\\StudentReports.Application.csproj": {
-              "projectPath": "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Application\\StudentReports.Application.csproj"
+            "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.Application\\StudentReports.Application.csproj": {
+              "projectPath": "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.Application\\StudentReports.Application.csproj"
             },
-            "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Domain\\StudentReports.Domain.csproj": {
-              "projectPath": "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Domain\\StudentReports.Domain.csproj"
+            "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.Domain\\StudentReports.Domain.csproj": {
+              "projectPath": "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.Domain\\StudentReports.Domain.csproj"
             }
           }
         }

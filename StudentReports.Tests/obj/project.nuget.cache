@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KY4gij7055E=",
+  "dgSpecHash": "g3u+jqg3JG8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Tests\\StudentReports.Tests.csproj",
+  "projectFilePath": "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.Tests\\StudentReports.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\илья\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\илья\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

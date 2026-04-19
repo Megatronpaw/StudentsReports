@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qZEZ0wYzDT4=",
+  "dgSpecHash": "aT7fmhR6SDo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.WebAPI\\StudentReports.WebAPI.csproj",
+  "projectFilePath": "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.WebAPI\\StudentReports.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\илья\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\илья\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",

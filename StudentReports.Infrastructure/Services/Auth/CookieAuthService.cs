@@ -15,7 +15,7 @@ public class CookieAuthService : IAuthService
         _cache = cache;
     }
 
-    public async Task<bool> ValidateCredentials(int studentId, string password)
+    public virtual async Task<bool> ValidateCredentials(int studentId, string password)
     {
         var student = await _studentRepo.GetByIdAsync(studentId);
         return student != null && password == "password";
@@ -23,18 +23,18 @@ public class CookieAuthService : IAuthService
 
     public string GenerateJwtToken(int studentId) => throw new NotImplementedException();
 
-    public string GenerateSessionToken()
+    public virtual string GenerateSessionToken()
     {
         var token = Guid.NewGuid().ToString();
         return token;
     }
 
-    public void StoreSession(string sessionToken, int studentId)
+    public virtual void StoreSession(string sessionToken, int studentId)
     {
         _cache.Set(sessionToken, studentId, TimeSpan.FromHours(1));
     }
 
-    public int? GetStudentIdFromSession(string sessionToken)
+    public virtual int? GetStudentIdFromSession(string sessionToken)
     {
         _cache.TryGetValue(sessionToken, out int studentId);
         return studentId == 0 ? null : studentId;

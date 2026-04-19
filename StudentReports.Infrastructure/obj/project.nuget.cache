@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Am+0bmW5wWc=",
+  "dgSpecHash": "JFC8l+yAODA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Infrastructure\\StudentReports.Infrastructure.csproj",
+  "projectFilePath": "D:\\Файлы Илья\\Код работы\\StudentReports.WebAPI\\StudentReports.Infrastructure\\StudentReports.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\илья\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
     "C:\\Users\\илья\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

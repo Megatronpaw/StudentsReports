@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\",
+  "WorkspaceRootPath": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{229D7191-D8E4-F300-FB57-0583AB7FB623}|StudentReports.Infrastructure\\StudentReports.Infrastructure.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\studentreports.webapi\\studentreports.infrastructure\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{229D7191-D8E4-F300-FB57-0583AB7FB623}|StudentReports.Infrastructure\\StudentReports.Infrastructure.csproj|d:\\\u0444\u0430\u0439\u043B\u044B \u0438\u043B\u044C\u044F\\\u043A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\studentreports.webapi\\studentreports.infrastructure\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{229D7191-D8E4-F300-FB57-0583AB7FB623}|StudentReports.Infrastructure\\StudentReports.Infrastructure.csproj|solutionrelative:studentreports.infrastructure\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\studentreports.webapi\\studentreports.webapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|d:\\\u0444\u0430\u0439\u043B\u044B \u0438\u043B\u044C\u044F\\\u043A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\studentreports.webapi\\studentreports.webapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|solutionrelative:studentreports.webapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5480C43A-079A-50A2-2311-A3B13372F9A6}|StudentReports.Application\\StudentReports.Application.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\studentreports.webapi\\studentreports.application\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5480C43A-079A-50A2-2311-A3B13372F9A6}|StudentReports.Application\\StudentReports.Application.csproj|d:\\\u0444\u0430\u0439\u043B\u044B \u0438\u043B\u044C\u044F\\\u043A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\studentreports.webapi\\studentreports.application\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5480C43A-079A-50A2-2311-A3B13372F9A6}|StudentReports.Application\\StudentReports.Application.csproj|solutionrelative:studentreports.application\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B977E742-F69F-05DC-5E5B-26A435B8E4BA}|StudentReports.Tests\\StudentReports.Tests.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\studentreports.webapi\\studentreports.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B977E742-F69F-05DC-5E5B-26A435B8E4BA}|StudentReports.Tests\\StudentReports.Tests.csproj|d:\\\u0444\u0430\u0439\u043B\u044B \u0438\u043B\u044C\u044F\\\u043A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\studentreports.webapi\\studentreports.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B977E742-F69F-05DC-5E5B-26A435B8E4BA}|StudentReports.Tests\\StudentReports.Tests.csproj|solutionrelative:studentreports.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B977E742-F69F-05DC-5E5B-26A435B8E4BA}|StudentReports.Tests\\StudentReports.Tests.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\studentreports.webapi\\studentreports.tests\\reportscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B977E742-F69F-05DC-5E5B-26A435B8E4BA}|StudentReports.Tests\\StudentReports.Tests.csproj|d:\\\u0444\u0430\u0439\u043B\u044B \u0438\u043B\u044C\u044F\\\u043A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\studentreports.webapi\\studentreports.tests\\reportscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B977E742-F69F-05DC-5E5B-26A435B8E4BA}|StudentReports.Tests\\StudentReports.Tests.csproj|solutionrelative:studentreports.tests\\reportscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\studentreports.webapi\\studentreports.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|d:\\\u0444\u0430\u0439\u043B\u044B \u0438\u043B\u044C\u044F\\\u043A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\studentreports.webapi\\studentreports.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|solutionrelative:studentreports.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\studentreports.webapi\\studentreports.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|d:\\\u0444\u0430\u0439\u043B\u044B \u0438\u043B\u044C\u044F\\\u043A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\studentreports.webapi\\studentreports.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|solutionrelative:studentreports.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|c:\\users\\\u0438\u043B\u044C\u044F\\source\\repos\\studentreports.webapi\\studentreports.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|d:\\\u0444\u0430\u0439\u043B\u044B \u0438\u043B\u044C\u044F\\\u043A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\studentreports.webapi\\studentreports.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{84ECEAC8-66A8-D874-08BB-642D36A94717}|StudentReports.WebAPI\\StudentReports.WebAPI.csproj|solutionrelative:studentreports.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ReportService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.Infrastructure\\Services\\ReportService.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.Infrastructure\\Services\\ReportService.cs",
               "RelativeDocumentMoniker": "StudentReports.Infrastructure\\Services\\ReportService.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.Infrastructure\\Services\\ReportService.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.Infrastructure\\Services\\ReportService.cs",
               "RelativeToolTip": "StudentReports.Infrastructure\\Services\\ReportService.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAQwHUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T14:33:56.054Z",
               "EditorCaption": ""
@@ -61,92 +61,85 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IReportService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.Application\\Interfaces\\IReportService.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.Application\\Interfaces\\IReportService.cs",
               "RelativeDocumentMoniker": "StudentReports.Application\\Interfaces\\IReportService.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.Application\\Interfaces\\IReportService.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.Application\\Interfaces\\IReportService.cs",
               "RelativeToolTip": "StudentReports.Application\\Interfaces\\IReportService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:33:03.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T14:33:03.006Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AuthControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.Tests\\AuthControllerTests.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.Tests\\AuthControllerTests.cs",
               "RelativeDocumentMoniker": "StudentReports.Tests\\AuthControllerTests.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.Tests\\AuthControllerTests.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.Tests\\AuthControllerTests.cs",
               "RelativeToolTip": "StudentReports.Tests\\AuthControllerTests.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAwwHoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:27:39.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T14:27:39.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ReportsControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.Tests\\ReportsControllerTests.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.Tests\\ReportsControllerTests.cs",
               "RelativeDocumentMoniker": "StudentReports.Tests\\ReportsControllerTests.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.Tests\\ReportsControllerTests.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.Tests\\ReportsControllerTests.cs",
               "RelativeToolTip": "StudentReports.Tests\\ReportsControllerTests.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:24:41.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T14:24:41.4Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ReportsController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.WebAPI\\Controllers\\ReportsController.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.WebAPI\\Controllers\\ReportsController.cs",
               "RelativeDocumentMoniker": "StudentReports.WebAPI\\Controllers\\ReportsController.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.WebAPI\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.WebAPI\\Controllers\\ReportsController.cs",
               "RelativeToolTip": "StudentReports.WebAPI\\Controllers\\ReportsController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAIA2wDUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:23:41.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T14:23:41.579Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.WebAPI\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.WebAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "StudentReports.WebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.WebAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "StudentReports.WebAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:23:21.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T14:23:21.433Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.WebAPI\\Program.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "StudentReports.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.WebAPI\\Program.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.WebAPI\\Program.cs",
               "RelativeToolTip": "StudentReports.WebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:22:22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T14:22:22Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.WebAPI\\appsettings.json",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "StudentReports.WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\\u0438\u043B\u044C\u044F\\source\\repos\\StudentReports.WebAPI\\StudentReports.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B \u0418\u043B\u044C\u044F\\\u041A\u043E\u0434 \u0440\u0430\u0431\u043E\u0442\u044B\\StudentReports.WebAPI\\StudentReports.WebAPI\\appsettings.json",
               "RelativeToolTip": "StudentReports.WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-16T14:22:02.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T14:22:02.877Z"
             }
           ]
         }
