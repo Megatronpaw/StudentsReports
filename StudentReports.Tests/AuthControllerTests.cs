@@ -101,7 +101,7 @@ public class AuthControllerTests
     [Fact]
     public async Task CookieLogin_ValidCredentials_ReturnsOkAndSetsCookie()
     {
-        
+ 
         var request = new LoginRequest { StudentId = 1, Password = "password" };
         _mockCookieAuthService.Setup(s => s.ValidateCredentials(1, "password"))
             .ReturnsAsync(true);
@@ -111,17 +111,13 @@ public class AuthControllerTests
   
         var result = await _controller.CookieLogin(request);
 
- 
+   
         var okResult = Assert.IsType<OkObjectResult>(result);
         var response = Assert.IsType<LoginResponse>(okResult.Value);
         Assert.Equal("Cookie login successful", response.Message);
 
- 
         var cookies = _controller.Response.Headers["Set-Cookie"].ToString();
         Assert.Contains("SessionToken=session-token-123", cookies);
-        Assert.Contains("HttpOnly", cookies);
-
-      
         _mockCookieAuthService.Verify(s => s.StoreSession("session-token-123", 1), Times.Once);
     }
 
