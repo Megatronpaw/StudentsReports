@@ -1,0 +1,130 @@
+[
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.AuthController",
+    "Method": "CookieLogin",
+    "RelativePath": "api/Auth/cookie-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "StudentReports.Application.DTOs.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.AuthController",
+    "Method": "JwtLogin",
+    "RelativePath": "api/Auth/jwt-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "StudentReports.Application.DTOs.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.ReportsController",
+    "Method": "GetAverageAttemptsPerQuestion",
+    "RelativePath": "api/Reports/average-attempts-per-question",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.ReportsController",
+    "Method": "GetCorrectIncorrectByTopic",
+    "RelativePath": "api/Reports/correct-incorrect-by-topic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.ReportsController",
+    "Method": "GetGroupAverage",
+    "RelativePath": "api/Reports/group-average/{groupId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "groupId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.ReportsController",
+    "Method": "GetMyActivityByHour",
+    "RelativePath": "api/Reports/my-activity-by-hour",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.ReportsController",
+    "Method": "GetMyComparison",
+    "RelativePath": "api/Reports/my-comparison",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.ReportsController",
+    "Method": "GetMyPerformanceOverTime",
+    "RelativePath": "api/Reports/my-performance-over-time",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.ReportsController",
+    "Method": "GetPeakActivityHour",
+    "RelativePath": "api/Reports/peak-activity-hour",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentReports.WebAPI.Controllers.ReportsController",
+    "Method": "GetTop10Difficult",
+    "RelativePath": "api/Reports/top10-difficult",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YW4pgpnRacI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\илья\\source\\repos\\StudentReports.WebAPI\\StudentReports.Application\\StudentReports.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\илья\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\илья\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\илья\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

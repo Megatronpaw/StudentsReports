@@ -1,0 +1,15 @@
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\bin\Debug\net8.0\StudentReports.Application.deps.json
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\bin\Debug\net8.0\StudentReports.Application.dll
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\bin\Debug\net8.0\StudentReports.Application.pdb
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\bin\Debug\net8.0\StudentReports.Domain.dll
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\bin\Debug\net8.0\StudentReports.Domain.pdb
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\StudentReports.Application.csproj.AssemblyReference.cache
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\StudentReports.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\StudentReports.Application.AssemblyInfoInputs.cache
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\StudentReports.Application.AssemblyInfo.cs
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\StudentReports.Application.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\StudentR.A4C64024.Up2Date
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\StudentReports.Application.dll
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\refint\StudentReports.Application.dll
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\StudentReports.Application.pdb
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Application\obj\Debug\net8.0\ref\StudentReports.Application.dll

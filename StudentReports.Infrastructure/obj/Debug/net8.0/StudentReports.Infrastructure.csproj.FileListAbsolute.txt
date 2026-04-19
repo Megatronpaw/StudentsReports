@@ -1,0 +1,17 @@
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\bin\Debug\net8.0\StudentReports.Infrastructure.deps.json
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\bin\Debug\net8.0\StudentReports.Infrastructure.dll
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\bin\Debug\net8.0\StudentReports.Infrastructure.pdb
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\bin\Debug\net8.0\StudentReports.Application.dll
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\bin\Debug\net8.0\StudentReports.Domain.dll
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\bin\Debug\net8.0\StudentReports.Application.pdb
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\bin\Debug\net8.0\StudentReports.Domain.pdb
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\StudentReports.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\StudentReports.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\StudentReports.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\StudentReports.Infrastructure.AssemblyInfo.cs
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\StudentReports.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\StudentR.D07F9C3E.Up2Date
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\StudentReports.Infrastructure.dll
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\refint\StudentReports.Infrastructure.dll
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\StudentReports.Infrastructure.pdb
+C:\Users\илья\source\repos\StudentReports.WebAPI\StudentReports.Infrastructure\obj\Debug\net8.0\ref\StudentReports.Infrastructure.dll
