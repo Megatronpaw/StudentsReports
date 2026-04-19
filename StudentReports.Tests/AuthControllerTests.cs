@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 using Moq;
 using StudentReports.Application.DTOs;
 using StudentReports.Application.Interfaces;
+using StudentReports.Domain.Interfaces;
 using StudentReports.Infrastructure.Services.Auth;
 using StudentReports.WebAPI.Controllers;
 using System.Security.Claims;
@@ -19,10 +21,20 @@ public class AuthControllerTests
     public AuthControllerTests()
     {
         _mockJwtAuthService = new Mock<IAuthService>();
-        _mockCookieAuthService = new Mock<CookieAuthService>();
+
+        
+        var mockStudentRepo = new Mock<IStudentRepository>();
+        var mockCache = new Mock<IMemoryCache>();
+
+
+        _mockCookieAuthService = new Mock<CookieAuthService>(
+            mockStudentRepo.Object,
+            mockCache.Object
+        );
 
         _controller = new AuthController(_mockJwtAuthService.Object, _mockCookieAuthService.Object);
 
+   
         var httpContext = new DefaultHttpContext();
         var authServiceMock = new Mock<IAuthenticationService>();
         authServiceMock
@@ -54,14 +66,17 @@ public class AuthControllerTests
     [Fact]
     public async Task JwtLogin_ValidCredentials_ReturnsOkWithToken()
     {
+
         var request = new LoginRequest { StudentId = 1, Password = "password" };
         _mockJwtAuthService.Setup(s => s.ValidateCredentials(1, "password"))
             .ReturnsAsync(true);
         _mockJwtAuthService.Setup(s => s.GenerateJwtToken(1))
             .Returns("fake-jwt-token");
 
+   
         var result = await _controller.JwtLogin(request);
 
+  
         var okResult = Assert.IsType<OkObjectResult>(result);
         var response = Assert.IsType<LoginResponse>(okResult.Value);
         Assert.Equal("fake-jwt-token", response.Token);
@@ -71,34 +86,42 @@ public class AuthControllerTests
     [Fact]
     public async Task JwtLogin_InvalidCredentials_ReturnsUnauthorized()
     {
+ 
         var request = new LoginRequest { StudentId = 99, Password = "wrong" };
         _mockJwtAuthService.Setup(s => s.ValidateCredentials(99, "wrong"))
             .ReturnsAsync(false);
 
+   
         var result = await _controller.JwtLogin(request);
 
+ 
         Assert.IsType<UnauthorizedObjectResult>(result);
     }
 
     [Fact]
     public async Task CookieLogin_ValidCredentials_ReturnsOkAndSetsCookie()
     {
+        
         var request = new LoginRequest { StudentId = 1, Password = "password" };
         _mockCookieAuthService.Setup(s => s.ValidateCredentials(1, "password"))
             .ReturnsAsync(true);
         _mockCookieAuthService.Setup(s => s.GenerateSessionToken())
             .Returns("session-token-123");
 
+  
         var result = await _controller.CookieLogin(request);
 
+ 
         var okResult = Assert.IsType<OkObjectResult>(result);
         var response = Assert.IsType<LoginResponse>(okResult.Value);
         Assert.Equal("Cookie login successful", response.Message);
 
+ 
         var cookies = _controller.Response.Headers["Set-Cookie"].ToString();
         Assert.Contains("SessionToken=session-token-123", cookies);
         Assert.Contains("HttpOnly", cookies);
 
+      
         _mockCookieAuthService.Verify(s => s.StoreSession("session-token-123", 1), Times.Once);
     }
 
@@ -110,7 +133,9 @@ public class AuthControllerTests
         _mockCookieAuthService.Setup(s => s.ValidateCredentials(99, "wrong"))
             .ReturnsAsync(false);
 
+
         var result = await _controller.CookieLogin(request);
+
 
         Assert.IsType<UnauthorizedObjectResult>(result);
     }
@@ -120,7 +145,9 @@ public class AuthControllerTests
     {
         var result = await _controller.Logout();
 
+
         Assert.IsType<OkObjectResult>(result);
+
         var cookies = _controller.Response.Headers["Set-Cookie"].ToString();
         Assert.Contains("SessionToken=;", cookies);
         Assert.Contains("expires=Thu, 01 Jan 1970", cookies);
