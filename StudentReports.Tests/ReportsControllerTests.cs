@@ -29,14 +29,11 @@ public class ReportsControllerTests
     [Fact]
     public async Task GetMyComparison_ReturnsOkResult()
     {
-        // Arrange
         _mockReportService.Setup(s => s.GetStudentAverageComparisonAsync(1))
             .ReturnsAsync(new { StudentName = "Test" });
 
-        // Act
         var result = await _controller.GetMyComparison();
 
-        // Assert
         var okResult = Assert.IsType<OkObjectResult>(result);
         Assert.NotNull(okResult.Value);
     }
@@ -51,4 +48,13 @@ public class ReportsControllerTests
         Assert.IsType<OkObjectResult>(result);
     }
 
+    [Fact]
+    public async Task GetMyActivityByHour_ReturnsOkResult()
+    {
+        _mockReportService.Setup(s => s.GetStudentActivityByHourAsync(1))
+            .ReturnsAsync(new { StudentId = 1, Activity = new[] { new { Hour = 10, Count = 5 } } });
+
+        var result = await _controller.GetMyActivityByHour();
+        Assert.IsType<OkObjectResult>(result);
+    }
 }
